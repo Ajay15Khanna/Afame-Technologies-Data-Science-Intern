@@ -186,7 +186,7 @@ Based on the analysis and model findings:
 
 **Ajay Khanna**  
 Data Science Intern — Afame Technologies  
-📧 Connect on [LinkedIn](#) | 🐙 [GitHub](https://github.com/Ajay15Khanna/Afame-Technologies-Data-Science-Intern)
+📧 Connect on 🐙 [GitHub](https://github.com/Ajay15Khanna/Afame-Technologies-Data-Science-Intern)
 
 ---
 
